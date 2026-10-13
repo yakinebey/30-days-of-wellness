@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 Days of Wellness</string>
+
+    <string name="tip_1_title">Morning Hydration</string>
+    <string name="tip_1_desc">Start your day by drinking a full glass of water before any coffee or tea. Hydration jumpstarts your metabolism and clears your mind.</string>
+
+    <string name="tip_2_title">10-Minute Morning Stretch</string>
+    <string name="tip_2_desc">Ease into the day with gentle stretches to release tension in your neck, shoulders, and lower back, improving circulation.</string>
+
+    <string name="tip_3_title">Mindful Breathing</string>
+    <string name="tip_3_desc">Take 5 minutes to practice box breathing: inhale for 4 seconds, hold for 4, exhale for 4, and hold for 4.</string>
+
+    <string name="tip_4_title">Digital Sunrise</string>
+    <string name="tip_4_desc">Avoid checking your phone for the first 30 minutes of waking up. Protect your peace and focus on your morning intention.</string>
+
+    <string name="tip_5_title">Nutritious Breakfast</string>
+    <string name="tip_5_desc">Fuel your body with a balanced breakfast rich in protein and fiber to maintain steady energy levels all morning.</string>
+
+    <string name="tip_6_title">Outdoor Walk</string>
+    <string name="tip_6_desc">Step outside for a brisk 15-minute walk in natural daylight to boost Vitamin D and regulate your circadian rhythm.</string>
+
+    <string name="tip_7_title">Gratitude Journaling</string>
+    <string name="tip_7_desc">Write down three specific things you are grateful for today. Shifting your focus to appreciation enhances overall happiness.</string>
+
+    <string name="tip_8_title">Posture Check</string>
+    <string name="tip_8_desc">Be mindful of your posture while working. Keep your shoulders relaxed, screen at eye level, and spine aligned.</string>
+
+    <string name="tip_9_title">Healthy Snacking</string>
+    <string name="tip_9_desc">Swap processed sugary snacks for a handful of nuts, fresh berries, or crunchy vegetables with hummus.</string>
+
+    <string name="tip_10_title">Eye Rest (20-20-20 Rule)</string>
+    <string name="tip_10_desc">Every 20 minutes, look at something 20 feet away for at least 20 seconds to reduce digital eye strain.</string>
+
+    <string name="tip_11_title">Core Strengthening</string>
+    <string name="tip_11_desc">Hold a 60-second plank to build core stability, supporting better posture and reducing back pain.</string>
+
+    <string name="tip_12_title">Herbal Tea Break</string>
+    <string name="tip_12_desc">Brew a cup of calming chamomile or peppermint tea to soothe your nervous system during an afternoon lull.</string>
+
+    <string name="tip_13_title">Declutter Your Space</string>
+    <string name="tip_13_desc">Spend 10 minutes tidying your desk or living area. A clean physical environment promotes mental clarity.</string>
+
+    <string name="tip_14_title">Cardio Boost</string>
+    <string name="tip_14_desc">Elevate your heart rate with 20 minutes of dancing, jogging, or cycling to release endorphins.</string>
+
+    <string name="tip_15_title">Midday Mindfulness</string>
+    <string name="tip_15_desc">Pause for a 5-minute body scan meditation, noticing physical sensations from your toes up to the crown of your head.</string>
+
+    <string name="tip_16_title">Power Nap</string>
+    <string name="tip_16_desc">Recharge with a short 15-20 minute power nap if you feel sluggish, waking up refreshed without sleep inertia.</string>
+
+    <string name="tip_17_title">Eat the Rainbow</string>
+    <string name="tip_17_desc">Ensure your dinner includes at least three different colored vegetables to maximize antioxidant and nutrient intake.</string>
+
+    <string name="tip_18_title">Inversion &amp; Relaxation</string>
+    <string name="tip_18_desc">Lie on your back with your legs resting up against a wall for 10 minutes to improve circulation and calm the mind.</string>
+
+    <string name="tip_19_title">Social Connection</string>
+    <string name="tip_19_desc">Reach out to a friend or family member with a kind message or call to strengthen your support network.</string>
+
+    <string name="tip_20_title">Aromatherapy</string>
+    <string name="tip_20_desc">Diffuse essential oils like lavender, eucalyptus, or bergamot to create a calming atmosphere at home.</string>
+
+    <string name="tip_21_title">Strength Training</string>
+    <string name="tip_21_desc">Perform bodyweight squats, push-ups, or lunges to maintain muscle tone and bone density.</string>
+
+    <string name="tip_22_title">Evening Stroll</string>
+    <string name="tip_22_desc">Take a gentle walk after dinner to aid digestion and prepare your body for restful sleep.</string>
+
+    <string name="tip_23_title">Limit Caffeine</string>
+    <string name="tip_23_desc">Avoid caffeine at least 8 hours before bedtime to ensure deep, uninterrupted REM sleep cycles.</string>
+
+    <string name="tip_24_title">Digital Sunset</string>
+    <string name="tip_24_desc">Turn off screens and devices 1 hour before bed. Read a physical book or listen to calming music instead.</string>
+
+    <string name="tip_25_title">Deep Breathing Before Bed</string>
+    <string name="tip_25_desc">Practice 4-7-8 breathing in bed: inhale for 4s, hold for 7s, exhale slowly for 8s to trigger sleep readiness.</string>
+
+    <string name="tip_26_title">Self-Compassion</string>
+    <string name="tip_26_desc">Reflect on your achievements this week without judgment. Celebrate small wins and forgive yourself for mistakes.</string>
+
+    <string name="tip_27_title">Mindful Eating</string>
+    <string name="tip_27_desc">Enjoy a meal without distractions (no TV or phone), chewing slowly and savoring every flavor and texture.</string>
+
+    <string name="tip_28_title">Creative Expression</string>
+    <string name="tip_28_desc">Spend 20 minutes doing something creative: sketching, writing, playing an instrument, or crafting.</string>
+
+    <string name="tip_29_title">Nature Immersion</string>
+    <string name="tip_29_desc">Spend time in a park or garden, touching leaves, listening to birds, and grounding yourself in nature.</string>
+
+    <string name="tip_30_title">Monthly Reflection</string>
+    <string name="tip_30_desc">Look back at your 30-day journey. Acknowledge the positive habits you built and set intentions for the month ahead.</string>
+</resources>
